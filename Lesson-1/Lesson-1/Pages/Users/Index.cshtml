@@ -1,5 +1,14 @@
-﻿@page
+﻿@* Tương tự như export default function Component() trong React. *@
+@page 
+@* Đây là cách Razor Pages gắn Model vào trang này. *@
+
+@* IndexModel là lớp C# Model chứa logic xử lý dữ liệu và kết nối với CSDL. *@
+
+@* Tương tự như việc sử dụng props hoặc useState trong React để truyền dữ liệu vào component. *@
 @model UserManagementSystem.Pages.Users.IndexModel
+
+@* Đây là cách truyền dữ liệu từ code-behind (C#) vào giao diện HTML. Tương tự như props trong React.*@
+
 @{
     ViewData["Title"] = "Danh Sách Người Dùng";
 }
