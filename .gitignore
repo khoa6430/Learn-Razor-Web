@@ -1,0 +1,39 @@
+# Visual Studio / IDE
+.vs/
+.vscode/
+*.user
+*.suo
+*.sln.docstates
+
+# Build output
+bin/
+obj/
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+
+# ASP.NET Core specific
+wwwroot/lib/
+wwwroot/css/app.css
+wwwroot/js/app.js
+
+# Dependency and package manager
+project.lock.json
+artifacts/
+
+# Logs
+*.log
+logs/
+
+# Environment variables
+appsettings.*.json
+*.env
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
