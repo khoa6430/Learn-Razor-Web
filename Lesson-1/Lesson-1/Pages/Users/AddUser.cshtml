@@ -1,0 +1,20 @@
+﻿@page
+@model UserManagementSystem.Pages.Users.AddUserModel
+@{
+    ViewData["Title"] = "Thêm Người Dùng";
+}
+
+<h2>Thêm Người Dùng</h2>
+
+<form method="post">
+    <label for="Name">Tên:</label>
+    <input asp-for="NewUser.Name" />
+
+    <label for="Email">Email:</label>
+    <input asp-for="NewUser.Email" />
+
+    <label for="PhoneNumber">Số điện thoại:</label>
+    <input asp-for="NewUser.PhoneNumber" />
+
+    <button type="submit">Thêm</button>
+</form>

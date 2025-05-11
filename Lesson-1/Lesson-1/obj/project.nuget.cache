@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "32Ifaw1QkC0=",
+  "dgSpecHash": "7JpAkeQiDTA=",
   "success": true,
-  "projectFilePath": "G:\\BH Web\\Web tutorials beginner\\Learn Razor Web\\Lesson 1 Intro Razor\\Lesson-1\\Lesson-1\\Lesson-1.csproj",
+  "projectFilePath": "G:\\BH Web\\Web tutorials beginner\\Learn Razor Web\\Lesson 1 Intro Razor\\Lesson-1\\Lesson-1\\UserManagementSystem.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Khoa\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Khoa\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.18\\microsoft.entityframeworkcore.7.0.18.nupkg.sha512",

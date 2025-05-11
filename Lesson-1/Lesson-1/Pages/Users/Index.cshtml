@@ -1,0 +1,27 @@
+﻿@page
+@model UserManagementSystem.Pages.Users.IndexModel
+@{
+    ViewData["Title"] = "Danh Sách Người Dùng";
+}
+
+<h2>Danh Sách Người Dùng</h2>
+
+<table>
+    <thead>
+        <tr>
+            <th>Tên</th>
+            <th>Email</th>
+            <th>Số điện thoại</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in Model.Users)
+        {
+            <tr>
+                <td>@user.Name</td>
+                <td>@user.Email</td>
+                <td>@user.PhoneNumber</td>
+            </tr>
+        }
+    </tbody>
+</table>

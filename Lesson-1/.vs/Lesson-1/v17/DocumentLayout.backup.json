@@ -3,24 +3,60 @@
   "WorkspaceRootPath": "G:\\BH Web\\Web tutorials beginner\\Learn Razor Web\\Lesson 1 Intro Razor\\Lesson-1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BB44D94D-2329-41EE-AEA0-132FC4147776}|Lesson-1\\Lesson-1.csproj|g:\\bh web\\web tutorials beginner\\learn razor web\\lesson 1 intro razor\\lesson-1\\lesson-1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{BB44D94D-2329-41EE-AEA0-132FC4147776}|Lesson-1\\Lesson-1.csproj|solutionrelative:lesson-1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{BB44D94D-2329-41EE-AEA0-132FC4147776}|Lesson-1\\UserManagementSystem.csproj|g:\\bh web\\web tutorials beginner\\learn razor web\\lesson 1 intro razor\\lesson-1\\lesson-1\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB44D94D-2329-41EE-AEA0-132FC4147776}|Lesson-1\\UserManagementSystem.csproj|solutionrelative:lesson-1\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB44D94D-2329-41EE-AEA0-132FC4147776}|Lesson-1\\Lesson-1.csproj|g:\\bh web\\web tutorials beginner\\learn razor web\\lesson 1 intro razor\\lesson-1\\lesson-1\\lesson-1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{BB44D94D-2329-41EE-AEA0-132FC4147776}|Lesson-1\\Lesson-1.csproj|solutionrelative:lesson-1\\lesson-1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{BB44D94D-2329-41EE-AEA0-132FC4147776}|Lesson-1\\UserManagementSystem.csproj|g:\\bh web\\web tutorials beginner\\learn razor web\\lesson 1 intro razor\\lesson-1\\lesson-1\\pages\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB44D94D-2329-41EE-AEA0-132FC4147776}|Lesson-1\\UserManagementSystem.csproj|solutionrelative:lesson-1\\pages\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB44D94D-2329-41EE-AEA0-132FC4147776}|Lesson-1\\Lesson-1.csproj|g:\\bh web\\web tutorials beginner\\learn razor web\\lesson 1 intro razor\\lesson-1\\lesson-1\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BB44D94D-2329-41EE-AEA0-132FC4147776}|Lesson-1\\Lesson-1.csproj|solutionrelative:lesson-1\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{BB44D94D-2329-41EE-AEA0-132FC4147776}|Lesson-1\\UserManagementSystem.csproj|g:\\bh web\\web tutorials beginner\\learn razor web\\lesson 1 intro razor\\lesson-1\\lesson-1\\pages\\users\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB44D94D-2329-41EE-AEA0-132FC4147776}|Lesson-1\\UserManagementSystem.csproj|solutionrelative:lesson-1\\pages\\users\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB44D94D-2329-41EE-AEA0-132FC4147776}|Lesson-1\\UserManagementSystem.csproj|g:\\bh web\\web tutorials beginner\\learn razor web\\lesson 1 intro razor\\lesson-1\\lesson-1\\pages\\users\\adduser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB44D94D-2329-41EE-AEA0-132FC4147776}|Lesson-1\\UserManagementSystem.csproj|solutionrelative:lesson-1\\pages\\users\\adduser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB44D94D-2329-41EE-AEA0-132FC4147776}|Lesson-1\\UserManagementSystem.csproj|g:\\bh web\\web tutorials beginner\\learn razor web\\lesson 1 intro razor\\lesson-1\\lesson-1\\pages\\users\\adduser.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB44D94D-2329-41EE-AEA0-132FC4147776}|Lesson-1\\UserManagementSystem.csproj|solutionrelative:lesson-1\\pages\\users\\adduser.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BB44D94D-2329-41EE-AEA0-132FC4147776}|Lesson-1\\Lesson-1.csproj|g:\\bh web\\web tutorials beginner\\learn razor web\\lesson 1 intro razor\\lesson-1\\lesson-1\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BB44D94D-2329-41EE-AEA0-132FC4147776}|Lesson-1\\Lesson-1.csproj|solutionrelative:lesson-1\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{BB44D94D-2329-41EE-AEA0-132FC4147776}|Lesson-1\\UserManagementSystem.csproj|g:\\bh web\\web tutorials beginner\\learn razor web\\lesson 1 intro razor\\lesson-1\\lesson-1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BB44D94D-2329-41EE-AEA0-132FC4147776}|Lesson-1\\UserManagementSystem.csproj|solutionrelative:lesson-1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB44D94D-2329-41EE-AEA0-132FC4147776}|Lesson-1\\Lesson-1.csproj|g:\\bh web\\web tutorials beginner\\learn razor web\\lesson 1 intro razor\\lesson-1\\lesson-1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB44D94D-2329-41EE-AEA0-132FC4147776}|Lesson-1\\Lesson-1.csproj|solutionrelative:lesson-1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB44D94D-2329-41EE-AEA0-132FC4147776}|Lesson-1\\Lesson-1.csproj|g:\\bh web\\web tutorials beginner\\learn razor web\\lesson 1 intro razor\\lesson-1\\lesson-1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BB44D94D-2329-41EE-AEA0-132FC4147776}|Lesson-1\\Lesson-1.csproj|solutionrelative:lesson-1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BB44D94D-2329-41EE-AEA0-132FC4147776}|Lesson-1\\Lesson-1.csproj|g:\\bh web\\web tutorials beginner\\learn razor web\\lesson 1 intro razor\\lesson-1\\lesson-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BB44D94D-2329-41EE-AEA0-132FC4147776}|Lesson-1\\Lesson-1.csproj|solutionrelative:lesson-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB44D94D-2329-41EE-AEA0-132FC4147776}|Lesson-1\\UserManagementSystem.csproj|g:\\bh web\\web tutorials beginner\\learn razor web\\lesson 1 intro razor\\lesson-1\\lesson-1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB44D94D-2329-41EE-AEA0-132FC4147776}|Lesson-1\\UserManagementSystem.csproj|solutionrelative:lesson-1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB44D94D-2329-41EE-AEA0-132FC4147776}|Lesson-1\\UserManagementSystem.csproj|g:\\bh web\\web tutorials beginner\\learn razor web\\lesson 1 intro razor\\lesson-1\\lesson-1\\usermanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BB44D94D-2329-41EE-AEA0-132FC4147776}|Lesson-1\\UserManagementSystem.csproj|solutionrelative:lesson-1\\usermanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB44D94D-2329-41EE-AEA0-132FC4147776}|Lesson-1\\UserManagementSystem.csproj|g:\\bh web\\web tutorials beginner\\learn razor web\\lesson 1 intro razor\\lesson-1\\lesson-1\\usermanagementsystem.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{BB44D94D-2329-41EE-AEA0-132FC4147776}|Lesson-1\\UserManagementSystem.csproj|solutionrelative:lesson-1\\usermanagementsystem.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB44D94D-2329-41EE-AEA0-132FC4147776}|Lesson-1\\Lesson-1.csproj|g:\\bh web\\web tutorials beginner\\learn razor web\\lesson 1 intro razor\\lesson-1\\lesson-1\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB44D94D-2329-41EE-AEA0-132FC4147776}|Lesson-1\\Lesson-1.csproj|solutionrelative:lesson-1\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,36 +66,167 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "G:\\BH Web\\Web tutorials beginner\\Learn Razor Web\\Lesson 1 Intro Razor\\Lesson-1\\Lesson-1\\Pages\\Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lesson-1\\Pages\\Users\\Index.cshtml",
+              "ToolTip": "G:\\BH Web\\Web tutorials beginner\\Learn Razor Web\\Lesson 1 Intro Razor\\Lesson-1\\Lesson-1\\Pages\\Users\\Index.cshtml",
+              "RelativeToolTip": "Lesson-1\\Pages\\Users\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T08:34:00.252Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "G:\\BH Web\\Web tutorials beginner\\Learn Razor Web\\Lesson 1 Intro Razor\\Lesson-1\\Lesson-1\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Lesson-1\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "G:\\BH Web\\Web tutorials beginner\\Learn Razor Web\\Lesson 1 Intro Razor\\Lesson-1\\Lesson-1\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Lesson-1\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T08:37:48.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddUser.cshtml.cs",
+              "DocumentMoniker": "G:\\BH Web\\Web tutorials beginner\\Learn Razor Web\\Lesson 1 Intro Razor\\Lesson-1\\Lesson-1\\Pages\\Users\\AddUser.cshtml.cs",
+              "RelativeDocumentMoniker": "Lesson-1\\Pages\\Users\\AddUser.cshtml.cs",
+              "ToolTip": "G:\\BH Web\\Web tutorials beginner\\Learn Razor Web\\Lesson 1 Intro Razor\\Lesson-1\\Lesson-1\\Pages\\Users\\AddUser.cshtml.cs",
+              "RelativeToolTip": "Lesson-1\\Pages\\Users\\AddUser.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T08:35:00.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddUser.cshtml",
+              "DocumentMoniker": "G:\\BH Web\\Web tutorials beginner\\Learn Razor Web\\Lesson 1 Intro Razor\\Lesson-1\\Lesson-1\\Pages\\Users\\AddUser.cshtml",
+              "RelativeDocumentMoniker": "Lesson-1\\Pages\\Users\\AddUser.cshtml",
+              "ToolTip": "G:\\BH Web\\Web tutorials beginner\\Learn Razor Web\\Lesson 1 Intro Razor\\Lesson-1\\Lesson-1\\Pages\\Users\\AddUser.cshtml",
+              "RelativeToolTip": "Lesson-1\\Pages\\Users\\AddUser.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T08:34:52.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "G:\\BH Web\\Web tutorials beginner\\Learn Razor Web\\Lesson 1 Intro Razor\\Lesson-1\\Lesson-1\\Pages\\Users\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Lesson-1\\Pages\\Users\\Index.cshtml.cs",
+              "ToolTip": "G:\\BH Web\\Web tutorials beginner\\Learn Razor Web\\Lesson 1 Intro Razor\\Lesson-1\\Lesson-1\\Pages\\Users\\Index.cshtml.cs",
+              "RelativeToolTip": "Lesson-1\\Pages\\Users\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T08:34:24.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "G:\\BH Web\\Web tutorials beginner\\Learn Razor Web\\Lesson 1 Intro Razor\\Lesson-1\\Lesson-1\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Lesson-1\\appsettings.Development.json",
+              "ToolTip": "G:\\BH Web\\Web tutorials beginner\\Learn Razor Web\\Lesson 1 Intro Razor\\Lesson-1\\Lesson-1\\appsettings.Development.json",
+              "RelativeToolTip": "Lesson-1\\appsettings.Development.json",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwAkAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-11T08:07:54.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "G:\\BH Web\\Web tutorials beginner\\Learn Razor Web\\Lesson 1 Intro Razor\\Lesson-1\\Lesson-1\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Lesson-1\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "G:\\BH Web\\Web tutorials beginner\\Learn Razor Web\\Lesson 1 Intro Razor\\Lesson-1\\Lesson-1\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Lesson-1\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T08:04:26.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "G:\\BH Web\\Web tutorials beginner\\Learn Razor Web\\Lesson 1 Intro Razor\\Lesson-1\\Lesson-1\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Lesson-1\\Models\\User.cs",
+              "ToolTip": "G:\\BH Web\\Web tutorials beginner\\Learn Razor Web\\Lesson 1 Intro Razor\\Lesson-1\\Lesson-1\\Models\\User.cs",
+              "RelativeToolTip": "Lesson-1\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T08:03:11.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "G:\\BH Web\\Web tutorials beginner\\Learn Razor Web\\Lesson 1 Intro Razor\\Lesson-1\\Lesson-1\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lesson-1\\Pages\\Index.cshtml",
+              "ToolTip": "G:\\BH Web\\Web tutorials beginner\\Learn Razor Web\\Lesson 1 Intro Razor\\Lesson-1\\Lesson-1\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Lesson-1\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T06:52:51.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserManagementSystem.csproj",
+              "DocumentMoniker": "G:\\BH Web\\Web tutorials beginner\\Learn Razor Web\\Lesson 1 Intro Razor\\Lesson-1\\Lesson-1\\UserManagementSystem.csproj",
+              "RelativeDocumentMoniker": "Lesson-1\\UserManagementSystem.csproj",
+              "ToolTip": "G:\\BH Web\\Web tutorials beginner\\Learn Razor Web\\Lesson 1 Intro Razor\\Lesson-1\\Lesson-1\\UserManagementSystem.csproj",
+              "RelativeToolTip": "Lesson-1\\UserManagementSystem.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-11T07:22:07.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "launchSettings.json",
               "DocumentMoniker": "G:\\BH Web\\Web tutorials beginner\\Learn Razor Web\\Lesson 1 Intro Razor\\Lesson-1\\Lesson-1\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Lesson-1\\Properties\\launchSettings.json",
               "ToolTip": "G:\\BH Web\\Web tutorials beginner\\Learn Razor Web\\Lesson 1 Intro Razor\\Lesson-1\\Lesson-1\\Properties\\launchSettings.json",
               "RelativeToolTip": "Lesson-1\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-05-11T07:01:42.38Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 12,
               "Title": "Lesson-1",
-              "DocumentMoniker": "G:\\BH Web\\Web tutorials beginner\\Learn Razor Web\\Lesson 1 Intro Razor\\Lesson-1\\Lesson-1\\Lesson-1.csproj",
-              "RelativeDocumentMoniker": "Lesson-1\\Lesson-1.csproj",
-              "ToolTip": "G:\\BH Web\\Web tutorials beginner\\Learn Razor Web\\Lesson 1 Intro Razor\\Lesson-1\\Lesson-1\\Lesson-1.csproj",
-              "RelativeToolTip": "Lesson-1\\Lesson-1.csproj",
+              "DocumentMoniker": "G:\\BH Web\\Web tutorials beginner\\Learn Razor Web\\Lesson 1 Intro Razor\\Lesson-1\\Lesson-1\\UserManagementSystem.csproj",
+              "RelativeDocumentMoniker": "Lesson-1\\UserManagementSystem.csproj",
+              "ToolTip": "G:\\BH Web\\Web tutorials beginner\\Learn Razor Web\\Lesson 1 Intro Razor\\Lesson-1\\Lesson-1\\UserManagementSystem.csproj",
+              "RelativeToolTip": "Lesson-1\\UserManagementSystem.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-05-11T07:01:40.713Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 13,
               "Title": "Error.cshtml",
               "DocumentMoniker": "G:\\BH Web\\Web tutorials beginner\\Learn Razor Web\\Lesson 1 Intro Razor\\Lesson-1\\Lesson-1\\Pages\\Error.cshtml",
               "RelativeDocumentMoniker": "Lesson-1\\Pages\\Error.cshtml",
@@ -72,27 +239,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "G:\\BH Web\\Web tutorials beginner\\Learn Razor Web\\Lesson 1 Intro Razor\\Lesson-1\\Lesson-1\\Pages\\Index.cshtml",
-              "RelativeDocumentMoniker": "Lesson-1\\Pages\\Index.cshtml",
-              "ToolTip": "G:\\BH Web\\Web tutorials beginner\\Learn Razor Web\\Lesson 1 Intro Razor\\Lesson-1\\Lesson-1\\Pages\\Index.cshtml",
-              "RelativeToolTip": "Lesson-1\\Pages\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-11T06:52:51.916Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "G:\\BH Web\\Web tutorials beginner\\Learn Razor Web\\Lesson 1 Intro Razor\\Lesson-1\\Lesson-1\\Program.cs",
               "RelativeDocumentMoniker": "Lesson-1\\Program.cs",
               "ToolTip": "G:\\BH Web\\Web tutorials beginner\\Learn Razor Web\\Lesson 1 Intro Razor\\Lesson-1\\Lesson-1\\Program.cs",
               "RelativeToolTip": "Lesson-1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvwwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T06:51:48.017Z"
+              "WhenOpened": "2025-05-11T06:51:48.017Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35931.197 d17.13
+VisualStudioVersion = 17.13.35931.197
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson-1", "Lesson-1\Lesson-1.csproj", "{BB44D94D-2329-41EE-AEA0-132FC4147776}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserManagementSystem", "Lesson-1\UserManagementSystem.csproj", "{BB44D94D-2329-41EE-AEA0-132FC4147776}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

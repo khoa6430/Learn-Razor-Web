@@ -1033,9 +1033,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\BH Web\\Web tutorials beginner\\Learn Razor Web\\Lesson 1 Intro Razor\\Lesson-1\\Lesson-1\\Lesson-1.csproj",
-      "projectName": "Lesson-1",
-      "projectPath": "G:\\BH Web\\Web tutorials beginner\\Learn Razor Web\\Lesson 1 Intro Razor\\Lesson-1\\Lesson-1\\Lesson-1.csproj",
+      "projectUniqueName": "G:\\BH Web\\Web tutorials beginner\\Learn Razor Web\\Lesson 1 Intro Razor\\Lesson-1\\Lesson-1\\UserManagementSystem.csproj",
+      "projectName": "UserManagementSystem",
+      "projectPath": "G:\\BH Web\\Web tutorials beginner\\Learn Razor Web\\Lesson 1 Intro Razor\\Lesson-1\\Lesson-1\\UserManagementSystem.csproj",
       "packagesPath": "C:\\Users\\Khoa\\.nuget\\packages\\",
       "outputPath": "G:\\BH Web\\Web tutorials beginner\\Learn Razor Web\\Lesson 1 Intro Razor\\Lesson-1\\Lesson-1\\obj\\",
       "projectStyle": "PackageReference",
